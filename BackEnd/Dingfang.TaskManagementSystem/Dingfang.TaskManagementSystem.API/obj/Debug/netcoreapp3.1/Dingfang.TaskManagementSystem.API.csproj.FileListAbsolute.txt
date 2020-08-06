@@ -56,3 +56,7 @@ C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfan
 C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.API\obj\Debug\netcoreapp3.1\Dingfang.TaskManagementSystem.API.csproj.CoreCompileInputs.cache
 C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.API\obj\Debug\netcoreapp3.1\Dingfang.TaskManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

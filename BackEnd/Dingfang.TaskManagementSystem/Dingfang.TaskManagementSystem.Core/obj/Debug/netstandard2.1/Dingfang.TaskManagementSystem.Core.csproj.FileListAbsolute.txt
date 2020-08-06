@@ -6,3 +6,4 @@ C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfan
 C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.Core\obj\Debug\netstandard2.1\Dingfang.TaskManagementSystem.Core.AssemblyInfo.cs
 C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.Core\obj\Debug\netstandard2.1\Dingfang.TaskManagementSystem.Core.dll
 C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.Core\obj\Debug\netstandard2.1\Dingfang.TaskManagementSystem.Core.pdb
+C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.Core\obj\Debug\netstandard2.1\Dingfang.TaskManagementSystem.Core.csproj.CoreCompileInputs.cache

@@ -45,6 +45,7 @@ namespace Dingfang.TaskManagementSystem.Infrastructure.Data
                 entity.ToTable("Tasks History");
                 //entity.HasKey(th => new { th.TaskId, th.UserId });
                 entity.HasKey(th => th.TaskId);
+                //entity.Property(th => th.TaskId).ValueGeneratedNever();
                 entity.Property(th => th.Title).HasMaxLength(50);
                 entity.Property(th => th.Description).HasMaxLength(500);
                 entity.Property(th => th.Remarks).HasMaxLength(500);
