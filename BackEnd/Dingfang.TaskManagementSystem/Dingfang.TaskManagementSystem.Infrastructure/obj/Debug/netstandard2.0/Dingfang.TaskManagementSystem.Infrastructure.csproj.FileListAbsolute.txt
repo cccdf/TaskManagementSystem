@@ -1,0 +1,5 @@
+C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.Infrastructure\bin\Debug\netstandard2.0\Dingfang.TaskManagementSystem.Infrastructure.deps.json
+C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.Infrastructure\bin\Debug\netstandard2.0\Dingfang.TaskManagementSystem.Infrastructure.dll
+C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.Infrastructure\obj\Debug\netstandard2.0\Dingfang.TaskManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.Infrastructure\obj\Debug\netstandard2.0\Dingfang.TaskManagementSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\Marti\OneDrive\Documents\Antra Training\FinalEvaluation\BackEnd\Dingfang.TaskManagementSystem\Dingfang.TaskManagementSystem.Infrastructure\obj\Debug\netstandard2.0\Dingfang.TaskManagementSystem.Infrastructure.csprojAssemblyReference.cache
