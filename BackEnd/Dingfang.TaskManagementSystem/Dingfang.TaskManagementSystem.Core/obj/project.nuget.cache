@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QhozKDQhTksjMoBCpyvm8Gd44KcNQ/zQOCATsbeJFUACy40m7EEw7cCQ1Lb8USg3v4a8dm70+RgmYU2YmLlA9w==",
+  "dgSpecHash": "WFr21jz0MhcVmgh0p7OkeaEJuG/GpaG5tKmc+No5dR3iaCeICl4NhZCF/ZXUdW9xQc+/V5ySllsL6fCMptYitw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marti\\OneDrive\\Documents\\Antra Training\\FinalEvaluation\\BackEnd\\Dingfang.TaskManagementSystem\\Dingfang.TaskManagementSystem.Core\\Dingfang.TaskManagementSystem.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Marti\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

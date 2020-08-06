@@ -11,6 +11,7 @@ namespace Dingfang.TaskManagementSystem.Core.ServiceInterfaces
     public interface ITaskService
     {
         //Task<IEnumerable<TaskEntity>> 
+        Task<TaskEntity> GetTaskById(int taskId);
         Task AssignTaskToUser(int taskId, int userId);
         Task<TaskEntity> AddTask(TaskRequestModel task);
         Task<TaskEntity> UpdateTask(TaskRequestModel task);

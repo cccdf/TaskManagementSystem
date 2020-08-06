@@ -6,6 +6,8 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Http.ModelBinding;
+using System.Web.Http.Results;
 
 namespace Dingfang.TaskManagementSystem.Infrastructure.Services
 {
@@ -19,16 +21,20 @@ namespace Dingfang.TaskManagementSystem.Infrastructure.Services
 
         public async Task<TaskEntity> AddTask(TaskRequestModel task)
         {
-            var taskCreated = new TaskEntity
-            {
-                UserId = task.UserId,
-                Title=task.Title,
-                Description=task.Description,
-                DueDate=task.DueDate,
-                Priority=task.Priority,
-                Remarks=task.Remarks
-            };
-            return await _taskRepository.AddAsync(taskCreated);
+
+                var taskCreated = new TaskEntity
+                {
+                    UserId = task.UserId,
+                    Title = task.Title,
+                    Description = task.Description,
+                    DueDate = task.DueDate,
+                    Priority = task.Priority,
+                    Remarks = task.Remarks
+                };
+                return await _taskRepository.AddAsync(taskCreated);
+
+            
+
         }
 
         public Task AssignTaskToUser(int taskId, int userId)
@@ -45,6 +51,11 @@ namespace Dingfang.TaskManagementSystem.Infrastructure.Services
         public async Task<IEnumerable<TaskEntity>> GetAllTasks()
         {
            return await _taskRepository.ListAllAsync();
+        }
+
+        public async Task<TaskEntity> GetTaskById(int taskId)
+        {
+            return await _taskRepository.GetByIdAsync(taskId);
         }
 
         public async Task<IEnumerable<TaskEntity>> GetTasksByUserId(int userId)

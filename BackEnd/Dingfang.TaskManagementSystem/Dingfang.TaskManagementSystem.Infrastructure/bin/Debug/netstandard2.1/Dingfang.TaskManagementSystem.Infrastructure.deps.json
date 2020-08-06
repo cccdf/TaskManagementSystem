@@ -1447,6 +1447,9 @@
         }
       },
       "Dingfang.TaskManagementSystem.Core/1.0.0": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.7.0"
+        },
         "runtime": {
           "Dingfang.TaskManagementSystem.Core.dll": {}
         }

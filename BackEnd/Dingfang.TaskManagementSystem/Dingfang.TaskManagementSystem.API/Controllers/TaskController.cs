@@ -58,5 +58,13 @@ namespace Dingfang.TaskManagementSystem.API.Controllers
             var tasks = await _taskService.GetTasksByUserId(userId);
             return Ok(tasks);
         }
+
+        [HttpGet]
+        [Route("{taskId}")]
+        public async Task<IActionResult> GetTaskById(int taskId)
+        {
+            var task = await _taskService.GetTaskById(taskId);
+            return Ok(task);
+        }
     }
 }
