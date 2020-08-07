@@ -22,12 +22,10 @@ namespace Dingfang.TaskManagementSystem.API.Controllers
         [Route("create")]
         public async Task<IActionResult> AddTask([FromBody] TaskRequestModel taskRequest)
         {
-            if (ModelState.IsValid)
-            {
+
                 var taskAdded = await _taskService.AddTask(taskRequest);
                 return Ok(taskAdded);
-            }
-            return BadRequest();
+ 
 
         }
 
